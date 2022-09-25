@@ -1,0 +1,14 @@
+{
+	"bpi": {
+		"2013-09-01": 97.0904,
+		"2013-09-02": 96.4906,
+		"2013-09-03": 96.8493,
+		"2013-09-04": 91.3508,
+		"2013-09-05": 91.8866
+	},
+	"disclaimer": "This data was produced from the CoinDesk Bitcoin Price Index. BPI value data returned as EUR.",
+	"time": {
+		"updated": "Sep 6, 2013 00:03:00 UTC",
+		"updatedISO": "2013-09-06T00:03:00+00:00"
+	}
+}
